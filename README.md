@@ -1,3 +1,3 @@
 # Onboarding with ViewPager
 
-<image src="https://github.com/Yemeksepeti-Mobil-Android-Bootcamp/android-viewPager-iiremdogan/blob/master/record/emulator_record.gif" width="300">
+<image src="https://github.com/iiremdogan/android-viewpager-example/blob/main/record/emulator_record.gif" width="300">
